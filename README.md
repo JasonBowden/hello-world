@@ -1,4 +1,3 @@
-# hello-world
-It's the basic unit.
+# Start here
+This will be the misc repository.
 
-By basic unit, I mean not openable on this Mac.
